@@ -1,0 +1,8 @@
+{
+    "global": {
+        "js": "/js/global.js"
+    },
+    "index": {
+        "js": "/js/index.js"
+    }
+}
